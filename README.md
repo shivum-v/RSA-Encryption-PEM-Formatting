@@ -3,7 +3,8 @@ Made By: Shivum Varshney
 Date: April 21, 2024
 
 Instructions:
-    1) Follow the rules of RSA Encryption:
+    
+    1) Follow the rules of RSA Encryption:    
         i) Enter two distinct primes
         ii) Private key will be displayed
         iii) Enter message that you would like to encrypt
